@@ -78,9 +78,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoimageupload',
-        'USER': 'root',
+        'USER': 'admin',
         'PASSWORD': '243747180azerty',
-        'HOST': 'localhost',
+        'HOST': 'db.clj2kmygcpnk.us-east-1.rds.amazonaws.com',
         'PORT': '3306'
     }
 }
